@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Exiade\\RiderProjects\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CA5D9-1BE6-4C76-9CE3-B3A07D02A3D6}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\exiade\\riderprojects\\consoleapp3\\consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F10CA5D9-1BE6-4C76-9CE3-B3A07D02A3D6}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp3.csproj",
+              "DocumentMoniker": "C:\\Users\\Exiade\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp3\\ConsoleApp3.csproj",
+              "ToolTip": "C:\\Users\\Exiade\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeToolTip": "ConsoleApp3\\ConsoleApp3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T13:25:12.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
